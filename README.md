@@ -97,7 +97,7 @@ sudo pacman -S --needed \
 
 ```bash
 git clone https://github.com/DotRYOT/PulseVis.git
-cd cachypulse
+cd PulseVis
 
 # Install dependencies
 npm install
