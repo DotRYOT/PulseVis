@@ -96,7 +96,7 @@ sudo pacman -S --needed \
 ### 1. Clone & Build from Source
 
 ```bash
-git clone https://github.com/your-username/cachypulse.git
+git clone https://github.com/DotRYOT/PulseVis.git
 cd cachypulse
 
 # Install dependencies
