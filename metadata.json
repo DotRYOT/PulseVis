@@ -1,0 +1,6 @@
+{
+  "name": "CachyPulse - Triple-Monitor PipeWire Audio Visualizer",
+  "description": "GPU-accelerated multi-monitor audio visualizer desktop suite with Wayland & PipeWire low-latency capture, live GLSL shader studio, preset manager, and hardware video export.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
